@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello ReactJs</h1>
-        <h2>My name is Trường</h2>
+        <h2>My name is Trường Vip Pro</h2>
       </header>
     </div>
   );
